@@ -1,0 +1,1752 @@
+THackSilver
+v7
+r0
+t319256963.740718
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/Info.plist" Resources/Info.plist
+cCpResource build/Debug-iphonesimulator/HackSilver.app/Default.png Resources/Default.png
+cCpResource build/Debug-iphonesimulator/HackSilver.app/fps_images.png Resources/fps_images.png
+cCpResource build/Debug-iphonesimulator/HackSilver.app/Icon.png Resources/Icon.png
+cCpResource build/Debug-iphonesimulator/HackSilver.app/Icon@2x.png Resources/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/HackSilver.app/Icon-Small@2x.png Resources/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/HackSilver.app/Icon-Small.png Resources/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/HackSilver.app/Icon-Small-50.png Resources/Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/HackSilver.app/Icon-72.png Resources/Icon-72.png
+cCpResource build/Debug-iphonesimulator/HackSilver.app/iTunesArtwork Resources/iTunesArtwork
+cCpResource build/Debug-iphonesimulator/HackSilver.app/pausebutton.png Resources/pausebutton.png
+cCpResource build/Debug-iphonesimulator/HackSilver.app/winter.jpg Resources/winter.jpg
+cCpResource "build/Debug-iphonesimulator/HackSilver.app/HackSilver Map.tmx" "Resources/HackSilver Map.tmx"
+cCpResource build/Debug-iphonesimulator/HackSilver.app/tiles.png Resources/tiles.png
+cCpResource build/Debug-iphonesimulator/HackSilver.app/Background.png Resources/Background.png
+cCpResource build/Debug-iphonesimulator/HackSilver.app/Man.png Resources/Man.png
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HackSilver_Prefix-ajvwmnykmttjhngbgrutikdgnjma/HackSilver_Prefix.pch.gch HackSilver_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/main.o "/Users/matthew/Desktop/My Code Sources/HackSilver/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/AppDelegate.o "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/HelloWorldScene.o "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/HelloWorldScene.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/RootViewController.o "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/GamePlay.o "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GamePlay.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/PauseScene.o "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/PauseScene.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/GameOver.o "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GameOver.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/HackSilver" normal i386
+cGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app.dSYM" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/HackSilver"
+cTouch "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D4722A00000000000000110
+t1296507552
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004CC121DB00000000000022F0
+t1287725531
+s8944
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h
+c000000004CC121DB0000000000002650
+t1287725531
+s9808
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004CC1226400000000000246A0
+t1287725668
+s149152
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC12308000000000000094F
+t1287725832
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC123080000000000000A61
+t1287725832
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC123080000000000009369
+t1287725832
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC123080000000000003C4A
+t1287725832
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC1230E0000000000019D40
+t1287725838
+s105792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/inttypes.h
+c000000004CB3E48600000000000027D1
+t1286857862
+s10193
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/objc/objc.h
+c000000004CB935700000000000000A2F
+t1287206256
+s2607
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stddef.h
+c000000004CB3E4860000000000001404
+t1286857862
+s5124
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/time.h
+c000000004CBFACAC0000000000001E17
+t1287629996
+s7703
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libz.dylib
+c000000004CC109C300000000000123B0
+t1287719363
+s74672
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/AppDelegate.h
+c000000004D4353450000000000000180
+t1296257861
+s384
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/AppDelegate.m
+c000000004D57155A0000000000001180
+t1297552730
+s4480
+i"cocos2d.h"
+i"AppDelegate.h"
+i"GameConfig.h"
+i"HelloWorldScene.h"
+i"RootViewController.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/CCCharacter.h
+c000000004D3AF43100000000000001B0
+t1295709233
+s432
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/CCCharacter.m
+c000000004D3AF4310000000000000122
+t1295709233
+s290
+i"CCCharacter.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GameConfig.h
+c000000004D34D0630000000000000226
+t1295306851
+s550
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GameOver.h
+c000000004D34D91700000000000000FA
+t1295309079
+s250
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GameOver.m
+c000000004D34D91700000000000004AA
+t1295309079
+s1194
+i"GameOver.h"
+i"HelloWorldScene.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GamePlay.h
+c000000004D5736B1000000000000021F
+t1297561265
+s543
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GamePlay.m
+c000000004D573E4D0000000000001838
+t1297563213
+s6200
+i"GamePlay.h"
+i"GameOver.h"
+i"PauseScene.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/HelloWorldScene.h
+c000000004D34D2E0000000000000018F
+t1295307488
+s399
+i"cocos2d.h"
+i"GamePlay.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/HelloWorldScene.m
+c000000004D57405900000000000006D3
+t1297563737
+s1747
+i"HelloWorldScene.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/PauseScene.h
+c000000004D34D507000000000000004C
+t1295308039
+s76
+i"cocos2d.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/PauseScene.m
+c000000004D34D6CD00000000000005A7
+t1295308493
+s1447
+i"PauseScene.h"
+i"HelloWorldScene.h"
+i"GamePlay.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/RootViewController.h
+c000000004D34D06300000000000000EE
+t1295306851
+s238
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/RootViewController.m
+c000000004D34D0630000000000001142
+t1295306851
+s4418
+i"cocos2d.h"
+i"RootViewController.h"
+i"GameConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/HackSilver_Prefix.pch
+c000000004D34D06400000000000000B9
+t1295306852
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/5191456.jpg
+c000000004D37C8D50000000000015B09
+t1295501525
+s88841
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/6012563.png
+c000000004D57129600000000000026EC
+t1297552022
+s9964
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Background.png
+c000000004D57348900000000000293C2
+t1297560713
+s168898
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Default.png
+c000000004D34D06300000000000077AB
+t1295306851
+s30635
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/HackSilver Map.tmx
+c000000004D5713A100000000000001CB
+t1297552289
+s459
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon-72.png
+c000000004D34D0630000000000002C96
+t1295306851
+s11414
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon-Small-50.png
+c000000004D34D0630000000000001F2B
+t1295306851
+s7979
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon-Small.png
+c000000004D34D064000000000000135C
+t1295306852
+s4956
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon-Small@2x.png
+c000000004D34D06400000000000024F9
+t1295306852
+s9465
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon.png
+c000000004D34D064000000000000246F
+t1295306852
+s9327
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon@2x.png
+c000000004D34D0640000000000005375
+t1295306852
+s21365
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Man.png
+c000000004D573B7F00000000000006D5
+t1297562495
+s1749
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/background.png
+c000000004D34D460000000000000793D
+t1295307872
+s31037
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/fps_images.png
+c000000004D34D064000000000000183B
+t1295306852
+s6203
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/iTunesArtwork
+c000000004D34D064000000000000F21E
+t1295306852
+s61982
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man.png
+c000000004D4360980000000000000102
+t1296261272
+s258
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man1.png
+c000000004D3E323A0000000000000134
+t1295921722
+s308
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man2.png
+c000000004D3E323A000000000000013C
+t1295921722
+s316
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man3.png
+c000000004D3E323A0000000000000143
+t1295921722
+s323
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man4.png
+c000000004D3E323A000000000000013D
+t1295921722
+s317
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man6.png
+c000000004D3E323A000000000000012D
+t1295921722
+s301
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man7.png
+c000000004D3E323A000000000000012A
+t1295921722
+s298
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man8.png
+c000000004D3E323A000000000000011C
+t1295921722
+s284
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/pausebutton.png
+c000000004D5735C20000000000001A19
+t1297561026
+s6681
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/snow1.png
+c000000004D3E323A0000000000000C5F
+t1295921722
+s3167
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/texture.png
+c000000004D5739FB000000000000086C
+t1297562107
+s2156
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/tiles.png
+c000000004D57129600000000000026EC
+t1297552022
+s9964
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/winter.jpg
+c000000004D37C8D50000000000015B09
+t1295501525
+s88841
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/winter_ground.png
+c000000004D3E323A0000000000000E0F
+t1295921722
+s3599
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app
+t1297564163
+s680
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app.dSYM
+t1297564163
+s102
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/5191456.jpg
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/6012563.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/Background.png
+t1297564161
+s168898
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/Default.png
+t1297564161
+s30635
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/HackSilver
+t1297564163
+s1671852
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/HackSilver Map.tmx
+t1297564161
+s459
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/Icon-72.png
+t1297564161
+s11414
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/Icon-Small-50.png
+t1297564161
+s7979
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/Icon-Small.png
+t1297564161
+s4956
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/Icon-Small@2x.png
+t1297564161
+s9465
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/Icon.png
+t1297564161
+s9327
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/Icon@2x.png
+t1297564161
+s21365
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/Info.plist
+t1297564161
+s832
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/Man.png
+t1297564161
+s1749
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/PkgInfo
+t1297564161
+s8
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/background.png
+t1297550458
+s31037
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/fps_images.png
+t1297564161
+s6203
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/iTunesArtwork
+t1297564161
+s61982
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/man.png
+t1297550458
+s258
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/man1.png
+t1297561099
+s308
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/man2.png
+t1297561099
+s316
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/man3.png
+t1297561099
+s323
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/man4.png
+t1297561099
+s317
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/man6.png
+t1297561099
+s301
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/man7.png
+t1297561099
+s298
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/man8.png
+t1297561099
+s284
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/pausebutton.png
+t1297564161
+s6681
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/snow1.png
+t1297550458
+s3167
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/texture.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/tiles.png
+t1297564161
+s9964
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/winter.jpg
+t1297564161
+s88841
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/winter_ground.png
+t1297550458
+s3599
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/libcocos2d libraries.a
+c000000004D57420100000000003C8160
+t1297564161
+s3965280
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/AppDelegate.o
+t1297564162
+s59080
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/CCCharacter.o
+t1297550460
+s12220
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/GameOver.o
+t1297564162
+s14072
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/GamePlay.o
+t1297564162
+s68528
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/HackSilver.LinkFileList
+c000000004D57420100000000000003FB
+t1297564161
+s1019
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/HelloWorldScene.o
+t1297564162
+s15848
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/PauseScene.o
+t1297564162
+s16440
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/RootViewController.o
+t1297564162
+s43372
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/main.o
+t1297564161
+s3220
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCAction.h
+c000000004D34D064000000000000167A
+t1295306852
+s5754
+i<sys/time.h>
+i<Foundation/Foundation.h>
+i"ccTypes.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCActionCamera.h
+c000000004D34D06400000000000009BC
+t1295306852
+s2492
+i"CCActionInterval.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCActionEase.h
+c000000004D34D0640000000000001671
+t1295306852
+s5745
+i"CCActionInterval.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCActionGrid.h
+c000000004D34D064000000000000148B
+t1295306852
+s5259
+i"CCActionInterval.h"
+i"CCActionInstant.h"
+i"CCGrid.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCActionGrid3D.h
+c000000004D34D0640000000000001A8A
+t1295306852
+s6794
+i"CCActionGrid.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCActionInstant.h
+c000000004D34D06400000000000013AA
+t1295306852
+s5034
+i"CCAction.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCActionInterval.h
+c000000004D34D0640000000000003265
+t1295306852
+s12901
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCActionManager.h
+c000000004D34D0640000000000001071
+t1295306852
+s4209
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCActionPageTurn3D.h
+c000000004D34D0640000000000000644
+t1295306852
+s1604
+i"CCActionGrid3D.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCActionProgressTimer.h
+c000000004D34D064000000000000088D
+t1295306852
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCActionInterval.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCActionTiledGrid.h
+c000000004D34D0640000000000001A15
+t1295306852
+s6677
+i"CCActionGrid.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCActionTween.h
+c000000004D34D0640000000000000931
+t1295306852
+s2353
+i<Foundation/Foundation.h>
+i"CCActionInterval.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCAnimation.h
+c000000004D34D064000000000000126D
+t1295306852
+s4717
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCAnimationCache.h
+c000000004D34D06400000000000008DD
+t1295306852
+s2269
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCAtlasNode.h
+c000000004D34D0640000000000000C06
+t1295306852
+s3078
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCBlockSupport.h
+c000000004D34D064000000000000066F
+t1295306852
+s1647
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCCamera.h
+c000000004D34D0640000000000000C84
+t1295306852
+s3204
+i"CCNode.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCCompatibility.h
+c000000004D34D0640000000000003891
+t1295306852
+s14481
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCConfiguration.h
+c000000004D34D0640000000000000D36
+t1295306852
+s3382
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCDirector.h
+c000000004D34D06400000000000025C4
+t1295306852
+s9668
+i"ccConfig.h"
+i"ccTypes.h"
+i"Platforms/CCGL.h"
+i"CCProtocols.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCDrawingPrimitives.h
+c000000004D34D0640000000000000C32
+t1295306852
+s3122
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCGrabber.h
+c000000004D34D06400000000000005E4
+t1295306852
+s1508
+i"Platforms/CCGL.h"
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCGrid.h
+c000000004D34D0640000000000000E5A
+t1295306852
+s3674
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCLabelAtlas.h
+c000000004D34D0640000000000000B24
+t1295306852
+s2852
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCLabelBMFont.h
+c000000004D34D0640000000000001641
+t1295306852
+s5697
+i"CCSpriteBatchNode.h"
+i"Support/uthash.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCLabelTTF.h
+c000000004D34D0640000000000000A87
+t1295306852
+s2695
+i"CCTexture2D.h"
+i"CCSprite.h"
+i"Platforms/CCNS.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCLayer.h
+c000000004D34D064000000000000226A
+t1295306852
+s8810
+i<Availability.h>
+i<UIKit/UIKit.h>
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/Mac/CCEventDispatcher.h"
+i"CCProtocols.h"
+i"CCNode.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCMenu.h
+c000000004D34D0640000000000000B85
+t1295306852
+s2949
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCMenuItem.h
+c000000004D34D06400000000000033A8
+t1295306852
+s13224
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCMotionStreak.h
+c000000004D34D0640000000000000B2A
+t1295306852
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCNode.h
+c000000004D34D0640000000000004485
+t1295306852
+s17541
+i<Availability.h>
+i"Platforms/CCGL.h"
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCParallaxNode.h
+c000000004D34D064000000000000075D
+t1295306852
+s1885
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCParticleExamples.h
+c000000004D34D0640000000000000AD0
+t1295306852
+s2768
+i<Availability.h>
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCParticleSystem.h
+c000000004D34D06400000000000037B8
+t1295306852
+s14264
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCParticleSystemPoint.h
+c000000004D34D0640000000000000846
+t1295306852
+s2118
+i<Availability.h>
+i"CCParticleSystem.h"
+i"CCParticleSystemQuad.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCParticleSystemQuad.h
+c000000004D34D06400000000000009F8
+t1295306852
+s2552
+i"CCParticleSystem.h"
+i"ccConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCProgressTimer.h
+c000000004D34D0640000000000000B48
+t1295306852
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCProtocols.h
+c000000004D34D0640000000000000F9A
+t1295306852
+s3994
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCRenderTexture.h
+c000000004D34D0640000000000000F2A
+t1295306852
+s3882
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCRibbon.h
+c000000004D34D0640000000000000FCD
+t1295306852
+s4045
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"Platforms/CCGL.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCScene.h
+c000000004D34D0640000000000000676
+t1295306852
+s1654
+i"CCNode.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCScheduler.h
+c000000004D34D06400000000000019D7
+t1295306852
+s6615
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCSprite.h
+c000000004D34D064000000000000345C
+t1295306852
+s13404
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCSpriteBatchNode.h
+c000000004D34D06400000000000018F8
+t1295306852
+s6392
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCSpriteFrame.h
+c000000004D34D0640000000000000D5A
+t1295306852
+s3418
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCSpriteFrameCache.h
+c000000004D34D0640000000000001394
+t1295306852
+s5012
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCSpriteSheet.h
+c000000004D34D06400000000000009FE
+t1295306852
+s2558
+i"CCSpriteBatchNode.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCTMXLayer.h
+c000000004D34D064000000000000182A
+t1295306852
+s6186
+i"CCAtlasNode.h"
+i"CCSpriteBatchNode.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCTMXObjectGroup.h
+c000000004D34D06400000000000008D5
+t1295306852
+s2261
+i"CCSpriteSheet.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCTMXTiledMap.h
+c000000004D34D06400000000000014D4
+t1295306852
+s5332
+i"CCSpriteSheet.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCTMXXMLParser.h
+c000000004D34D06400000000000016B9
+t1295306852
+s5817
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCTexture2D.h
+c000000004D34D0640000000000002C9A
+t1295306852
+s11418
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCTextureAtlas.h
+c000000004D34D064000000000000145B
+t1295306852
+s5211
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCTextureCache.h
+c000000004D34D06400000000000014C2
+t1295306852
+s5314
+i<Availability.h>
+i<CoreGraphics/CGImage.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCTexturePVR.h
+c000000004D34D0640000000000000FB9
+t1295306852
+s4025
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"CCTextureCache.h"
+i"CCTexture2D.h"
+i"ccCArray.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCTileMapAtlas.h
+c000000004D34D0640000000000000B86
+t1295306852
+s2950
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCTransition.h
+c000000004D34D0640000000000002134
+t1295306852
+s8500
+i"CCScene.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCTransitionPageTurn.h
+c000000004D34D0640000000000000917
+t1295306852
+s2327
+i"CCTransition.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/CCTransitionRadial.h
+c000000004D34D0640000000000000630
+t1295306852
+s1584
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCActionProgressTimer.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Platforms/CCGL.h
+c000000004D34D0640000000000000BF8
+t1295306852
+s3064
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/EAGL.h>
+i"iOS/glu.h"
+i"iOS/EAGLView.h"
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<Cocoa/Cocoa.h>
+i"Mac/MacGLView.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Platforms/CCNS.h
+c000000004D34D0640000000000000965
+t1295306852
+s2405
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Platforms/Mac/CCDirectorMac.h
+c000000004D34D0640000000000000CBE
+t1295306852
+s3262
+i<Availability.h>
+i<QuartzCore/CVDisplayLink.h>
+i"../../CCDirector.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Platforms/Mac/CCEventDispatcher.h
+c000000004D34D064000000000000206A
+t1295306852
+s8298
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"MacGLView.h"
+i"../../Support/uthash.h"
+i"../../Support/utlist.h"
+i"../../ccConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Platforms/Mac/MacGLView.h
+c000000004D34D0640000000000000B8C
+t1295306852
+s2956
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"../../ccConfig.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Platforms/Mac/MacWindow.h
+c000000004D34D064000000000000064B
+t1295306852
+s1611
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+c000000004D34D0640000000000002B53
+t1295306852
+s11091
+i<Availability.h>
+i"../../CCDirector.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h
+c000000004D34D0640000000000000BC3
+t1295306852
+s3011
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h
+c000000004D34D06400000000000010CA
+t1295306852
+s4298
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"EAGLView.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Platforms/iOS/CCTouchHandler.h
+c000000004D34D0640000000000000D99
+t1295306852
+s3481
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Platforms/iOS/EAGLView.h
+c000000004D34D0640000000000001B69
+t1295306852
+s7017
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Platforms/iOS/ESRenderer.h
+c000000004D34D064000000000000083A
+t1295306852
+s2106
+i<Availability.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Platforms/iOS/glu.h
+c000000004D34D064000000000000030D
+t1295306852
+s781
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Support/CCArray.h
+c000000004D34D0640000000000000BED
+t1295306852
+s3053
+i"ccCArray.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Support/CCFileUtils.h
+c000000004D34D06400000000000007E8
+t1295306852
+s2024
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Support/CCProfiling.h
+c000000004D34D06400000000000006E9
+t1295306852
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Support/CGPointExtension.h
+c000000004D34D0640000000000001EAB
+t1295306852
+s7851
+i<Availability.h>
+i<CoreGraphics/CGGeometry.h>
+i<Foundation/Foundation.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004D34D06400000000000011A7
+t1295306852
+s4519
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Support/TGAlib.h
+c000000004D34D0640000000000000444
+t1295306852
+s1092
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Support/ccCArray.h
+c000000004D34D06400000000000030F3
+t1295306852
+s12531
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Support/ccUtils.h
+c000000004D34D0640000000000000204
+t1295306852
+s516
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Support/uthash.h
+c000000004D34D064000000000000FB13
+t1295306852
+s64275
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/Support/utlist.h
+c000000004D34D0640000000000009091
+t1295306852
+s37009
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/ccConfig.h
+c000000004D34D0640000000000002897
+t1295306852
+s10391
+i<Availability.h>
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/ccMacros.h
+c000000004D34D0640000000000002167
+t1295306852
+s8551
+i<math.h>
+i"ccConfig.h"
+i<Foundation/Foundation.h>
+i<Availability.h>
+i"Platforms/Mac/MacWindow.h"
+i"Platforms/iOS/CCDirectorIOS.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/ccTypes.h
+c000000004D34D06400000000000016D2
+t1295306852
+s5842
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+i"Platforms/CCGL.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/libs/cocos2d/cocos2d.h
+c000000004D34D06400000000000010FF
+t1295306852
+s4351
+i<Availability.h>
+i"ccConfig.h"
+i"CCActionManager.h"
+i"CCAction.h"
+i"CCActionInstant.h"
+i"CCActionInterval.h"
+i"CCActionEase.h"
+i"CCActionCamera.h"
+i"CCActionTween.h"
+i"CCActionEase.h"
+i"CCActionTiledGrid.h"
+i"CCActionGrid3D.h"
+i"CCActionGrid.h"
+i"CCActionProgressTimer.h"
+i"CCActionPageTurn3D.h"
+i"CCAnimation.h"
+i"CCAnimationCache.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteBatchNode.h"
+i"CCSpriteFrameCache.h"
+i"CCLabelTTF.h"
+i"CCLabelBMFont.h"
+i"CCLabelAtlas.h"
+i"CCParticleSystem.h"
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+i"CCParticleExamples.h"
+i"CCTexture2D.h"
+i"CCTexturePVR.h"
+i"CCTextureCache.h"
+i"CCTextureAtlas.h"
+i"CCTransition.h"
+i"CCTransitionPageTurn.h"
+i"CCTransitionRadial.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCBlockSupport.h"
+i"CCCamera.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCAtlasNode.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCParallaxNode.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCConfiguration.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+i"Platforms/iOS/CCTouchDispatcher.h"
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/iOS/CCTouchHandler.h"
+i"Platforms/iOS/EAGLView.h"
+i"Platforms/iOS/CCDirectorIOS.h"
+i"Platforms/Mac/MacGLView.h"
+i"Platforms/Mac/CCDirectorMac.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/ccUtils.h"
+i"Support/CCProfiling.h"
+i"CCCompatibility.h"
+
+N/Users/matthew/Desktop/My Code Sources/HackSilver/main.m
+c000000004D435345000000000000015F
+t1296257861
+s351
+i<UIKit/UIKit.h>
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HackSilver_Prefix-ajvwmnykmttjhngbgrutikdgnjma/HackSilver_Prefix.pch.gch
+t1297550459
+s11971792
+
+NResources/Info.plist
+c000000004D34D0640000000000000515
+t1295306852
+s1301
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319256961#319256961#0(0"0(0#1#0"8618674848#0"0#
+
+CCompileC build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/AppDelegate.o "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s319256961.753930
+e319256962.203387
+r1
+xCompileC
+xbuild/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/AppDelegate.o
+x/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@79"Compile /Users/matthew/Desktop/My Code Sources/HackSilver/Classes/AppDelegate.m319256961#319256962#0(0"0(0#0#71"/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/AppDelegate.m8622535744#2283"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HackSilver_Prefix-ajvwmnykmttjhngbgrutikdgnjma/HackSilver_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/AppDelegate.m" -o "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/AppDelegate.o"0#
+
+CCompileC build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/CCCharacter.o "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/CCCharacter.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s319243260.361169
+e319243260.492591
+r1
+xCompileC
+xbuild/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/CCCharacter.o
+x/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/CCCharacter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@79"Compile /Users/matthew/Desktop/My Code Sources/HackSilver/Classes/CCCharacter.m319243260#319243260#0(0"0(0#0#71"/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/CCCharacter.m8605024384#2283"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HackSilver_Prefix-ajvwmnykmttjhngbgrutikdgnjma/HackSilver_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/CCCharacter.m" -o "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/CCCharacter.o"0#
+
+CCompileC build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/GameOver.o "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GameOver.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s319256962.662880
+e319256962.865662
+r1
+xCompileC
+xbuild/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/GameOver.o
+x/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GameOver.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@76"Compile /Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GameOver.m319256962#319256962#0(0"0(0#0#68"/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GameOver.m8605211360#2277"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HackSilver_Prefix-ajvwmnykmttjhngbgrutikdgnjma/HackSilver_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GameOver.m" -o "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/GameOver.o"0#
+
+CCompileC build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/GamePlay.o "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GamePlay.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s319256962.203511
+e319256962.692371
+r1
+xCompileC
+xbuild/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/GamePlay.o
+x/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GamePlay.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@76"Compile /Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GamePlay.m319256962#319256962#0(0"0(0#0#68"/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GamePlay.m8622558144#2277"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HackSilver_Prefix-ajvwmnykmttjhngbgrutikdgnjma/HackSilver_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/GamePlay.m" -o "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/GamePlay.o"0#
+
+CCompileC build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/HelloWorldScene.o "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/HelloWorldScene.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s319256961.880397
+e319256962.164893
+r1
+xCompileC
+xbuild/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/HelloWorldScene.o
+x/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/HelloWorldScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@83"Compile /Users/matthew/Desktop/My Code Sources/HackSilver/Classes/HelloWorldScene.m319256961#319256962#0(0"0(0#0#75"/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/HelloWorldScene.m8622165632#2291"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HackSilver_Prefix-ajvwmnykmttjhngbgrutikdgnjma/HackSilver_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/HelloWorldScene.m" -o "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/HelloWorldScene.o"0#
+
+CCompileC build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/PauseScene.o "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/PauseScene.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s319256962.416657
+e319256962.662752
+r1
+xCompileC
+xbuild/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/PauseScene.o
+x/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/PauseScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@78"Compile /Users/matthew/Desktop/My Code Sources/HackSilver/Classes/PauseScene.m319256962#319256962#0(0"0(0#0#70"/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/PauseScene.m8622139360#2281"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HackSilver_Prefix-ajvwmnykmttjhngbgrutikdgnjma/HackSilver_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/PauseScene.m" -o "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/PauseScene.o"0#
+
+CCompileC build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/RootViewController.o "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s319256962.165020
+e319256962.416516
+r1
+xCompileC
+xbuild/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/RootViewController.o
+x/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@86"Compile /Users/matthew/Desktop/My Code Sources/HackSilver/Classes/RootViewController.m319256962#319256962#0(0"0(0#0#78"/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/RootViewController.m8623238368#2297"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HackSilver_Prefix-ajvwmnykmttjhngbgrutikdgnjma/HackSilver_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/HackSilver/Classes/RootViewController.m" -o "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/main.o "/Users/matthew/Desktop/My Code Sources/HackSilver/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s319256961.745574
+e319256961.880250
+r1
+xCompileC
+xbuild/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/main.o
+x/Users/matthew/Desktop/My Code Sources/HackSilver/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@64"Compile /Users/matthew/Desktop/My Code Sources/HackSilver/main.m319256961#319256961#0(0"0(0#0#56"/Users/matthew/Desktop/My Code Sources/HackSilver/main.m8622655360#2261"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HackSilver_Prefix-ajvwmnykmttjhngbgrutikdgnjma/HackSilver_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/HackSilver/main.m" -o "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/main.o"0#
+
+CCpResource "build/Debug-iphonesimulator/HackSilver.app/HackSilver Map.tmx" "Resources/HackSilver Map.tmx"
+s319256961.719042
+e319256961.729575
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/HackSilver Map.tmx
+xResources/HackSilver Map.tmx
+lSLF07#2@33"Copy Resources/HackSilver Map.tmx319256961#319256961#0(0"0(0#0#78"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/HackSilver Map.tmx8624513152#528"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/HackSilver Map.tmx" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/5191456.jpg Resources/5191456.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/6012563.png Resources/6012563.png
+r0
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/Background.png Resources/Background.png
+s319256961.730761
+e319256961.745165
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/Background.png
+xResources/Background.png
+lSLF07#2@29"Copy Resources/Background.png319256961#319256961#0(0"0(0#0#74"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Background.png8623854048#524"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Background.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/Default.png Resources/Default.png
+s319256961.664644
+e319256961.702943
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/Default.png
+xResources/Default.png
+lSLF07#2@26"Copy Resources/Default.png319256961#319256961#0(0"0(0#0#71"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Default.png8631778368#521"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Default.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/Icon-72.png Resources/Icon-72.png
+s319256961.676082
+e319256961.730373
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/Icon-72.png
+xResources/Icon-72.png
+lSLF07#2@26"Copy Resources/Icon-72.png319256961#319256961#0(0"0(0#0#71"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon-72.png8627177088#521"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon-72.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/Icon-Small-50.png Resources/Icon-Small-50.png
+s319256961.671610
+e319256961.703253
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/Icon-Small-50.png
+xResources/Icon-Small-50.png
+lSLF07#2@32"Copy Resources/Icon-Small-50.png319256961#319256961#0(0"0(0#0#77"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon-Small-50.png8627396288#527"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon-Small-50.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/Icon-Small.png Resources/Icon-Small.png
+s319256961.669636
+e319256961.730224
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/Icon-Small.png
+xResources/Icon-Small.png
+lSLF07#2@29"Copy Resources/Icon-Small.png319256961#319256961#0(0"0(0#0#74"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon-Small.png8627889696#524"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon-Small.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/Icon-Small@2x.png Resources/Icon-Small@2x.png
+s319256961.668560
+e319256961.730071
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/Icon-Small@2x.png
+xResources/Icon-Small@2x.png
+lSLF07#2@32"Copy Resources/Icon-Small@2x.png319256961#319256961#0(0"0(0#0#77"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon-Small@2x.png8628358464#527"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon-Small@2x.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/Icon.png Resources/Icon.png
+s319256961.666606
+e319256961.729737
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/Icon.png
+xResources/Icon.png
+lSLF07#2@23"Copy Resources/Icon.png319256961#319256961#0(0"0(0#0#68"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon.png8631026496#518"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/Icon@2x.png Resources/Icon@2x.png
+s319256961.667572
+e319256961.729900
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/Icon@2x.png
+xResources/Icon@2x.png
+lSLF07#2@26"Copy Resources/Icon@2x.png319256961#319256961#0(0"0(0#0#71"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon@2x.png8630118208#521"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Icon@2x.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/Man.png Resources/Man.png
+s319256961.731841
+e319256961.738736
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/Man.png
+xResources/Man.png
+lSLF07#2@22"Copy Resources/Man.png319256961#319256961#0(0"0(0#0#67"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Man.png8623424960#517"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Man.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/background.png Resources/background.png
+s319243258.719297
+e319243258.800645
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/background.png
+xResources/background.png
+lSLF07#2@29"Copy Resources/background.png319243258#319243258#0(0"0(0#0#74"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/background.png8598687968#524"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/background.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/fps_images.png Resources/fps_images.png
+s319256961.665640
+e319256961.703109
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/fps_images.png
+xResources/fps_images.png
+lSLF07#2@29"Copy Resources/fps_images.png319256961#319256961#0(0"0(0#0#74"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/fps_images.png8631590816#524"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/fps_images.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/iTunesArtwork Resources/iTunesArtwork
+s319256961.680027
+e319256961.730520
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/iTunesArtwork
+xResources/iTunesArtwork
+lSLF07#2@28"Copy Resources/iTunesArtwork319256961#319256961#0(0"0(0#0#73"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/iTunesArtwork8626519488#523"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/iTunesArtwork" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/man.png Resources/man.png
+s319243258.763671
+e319243258.818703
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/man.png
+xResources/man.png
+lSLF07#2@22"Copy Resources/man.png319243258#319243258#0(0"0(0#0#67"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man.png8601543552#517"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/man1.png Resources/man1.png
+s319253899.485623
+e319253899.538540
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/man1.png
+xResources/man1.png
+lSLF07#2@23"Copy Resources/man1.png319253899#319253899#0(0"0(0#0#68"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man1.png8620756576#518"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man1.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/man2.png Resources/man2.png
+s319253899.487187
+e319253899.538731
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/man2.png
+xResources/man2.png
+lSLF07#2@23"Copy Resources/man2.png319253899#319253899#0(0"0(0#0#68"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man2.png8631305344#518"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man2.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/man3.png Resources/man3.png
+s319253899.488650
+e319253899.538938
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/man3.png
+xResources/man3.png
+lSLF07#2@23"Copy Resources/man3.png319253899#319253899#0(0"0(0#0#68"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man3.png8630379072#518"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man3.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/man4.png Resources/man4.png
+s319253899.489698
+e319253899.539085
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/man4.png
+xResources/man4.png
+lSLF07#2@23"Copy Resources/man4.png319253899#319253899#0(0"0(0#0#68"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man4.png8626733344#518"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man4.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/man6.png Resources/man6.png
+s319253899.490720
+e319253899.539464
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/man6.png
+xResources/man6.png
+lSLF07#2@23"Copy Resources/man6.png319253899#319253899#0(0"0(0#0#68"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man6.png8625826240#518"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man6.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/man7.png Resources/man7.png
+s319253899.492244
+e319253899.539641
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/man7.png
+xResources/man7.png
+lSLF07#2@23"Copy Resources/man7.png319253899#319253899#0(0"0(0#0#68"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man7.png8623372448#518"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man7.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/man8.png Resources/man8.png
+s319253899.493583
+e319253899.541040
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/man8.png
+xResources/man8.png
+lSLF07#2@23"Copy Resources/man8.png319253899#319253899#0(0"0(0#0#68"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man8.png8622987840#518"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/man8.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/pausebutton.png Resources/pausebutton.png
+s319256961.682415
+e319256961.730666
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/pausebutton.png
+xResources/pausebutton.png
+lSLF07#2@30"Copy Resources/pausebutton.png319256961#319256961#0(0"0(0#0#75"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/pausebutton.png8626121920#525"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/pausebutton.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/snow1.png Resources/snow1.png
+s319243258.756690
+e319243258.800219
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/snow1.png
+xResources/snow1.png
+lSLF07#2@24"Copy Resources/snow1.png319243258#319243258#0(0"0(0#0#69"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/snow1.png8603996736#519"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/snow1.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/texture.png Resources/texture.png
+r0
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/tiles.png Resources/tiles.png
+s319256961.723049
+e319256961.736824
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/tiles.png
+xResources/tiles.png
+lSLF07#2@24"Copy Resources/tiles.png319256961#319256961#0(0"0(0#0#69"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/tiles.png8624284640#519"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/tiles.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/winter.jpg Resources/winter.jpg
+s319256961.703351
+e319256961.729367
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/winter.jpg
+xResources/winter.jpg
+lSLF07#2@25"Copy Resources/winter.jpg319256961#319256961#0(0"0(0#0#70"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/winter.jpg8625849888#520"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/winter.jpg" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CCpResource build/Debug-iphonesimulator/HackSilver.app/winter_ground.png Resources/winter_ground.png
+s319243258.759667
+e319243258.800404
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HackSilver.app/winter_ground.png
+xResources/winter_ground.png
+lSLF07#2@32"Copy Resources/winter_ground.png319243258#319243258#0(0"0(0#0#77"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/winter_ground.png8601764416#527"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/winter_ground.png" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app.dSYM" "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/HackSilver"
+s319256963.399260
+e319256963.735751
+r1
+xGenerateDSYMFile
+x/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app.dSYM
+x/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/HackSilver
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/HackSilver.app.dSYM build/Debug-iphonesimulator/HackSilver.app/HackSilver319256963#319256963#0(0"0(0#0#103"/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/HackSilver8604859360#431"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/HackSilver" -o "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app.dSYM"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/HackSilver" normal i386
+s319256962.865780
+e319256963.398790
+r1
+xLd
+x/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/HackSilver
+xnormal
+xi386
+lSLF07#2@108"Link /Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/HackSilver319256962#319256963#0(0"0(0#0#0"8605135808#1135"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator" "-F/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator" -filelist "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/Objects-normal/i386/HackSilver.LinkFileList" -mmacosx-version-min=10.6 -all_load -ObjC -Xlinker -objc_abi_version -Xlinker 2 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -o "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/HackSilver"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/Info.plist" Resources/Info.plist
+s319256961.652761
+e319256961.664515
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist319256961#319256961#0(0"0(0#0#70"/Users/matthew/Desktop/My Code Sources/HackSilver/Resources/Info.plist8601821696#526"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HackSilver_Prefix-ajvwmnykmttjhngbgrutikdgnjma/HackSilver_Prefix.pch.gch HackSilver_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s319243258.818948
+e319243259.700490
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HackSilver_Prefix-ajvwmnykmttjhngbgrutikdgnjma/HackSilver_Prefix.pch.gch
+xHackSilver_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@32"Precompile HackSilver_Prefix.pch319243258#319243259#0(0"0(0#0#71"/Users/matthew/Desktop/My Code Sources/HackSilver/HackSilver_Prefix.pch8604370944#2137"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/HackSilver-project-headers.hmap" -Wall "-F/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/HackSilver/build/HackSilver.build/Debug-iphonesimulator/HackSilver.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -c "/Users/matthew/Desktop/My Code Sources/HackSilver/HackSilver_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HackSilver_Prefix-ajvwmnykmttjhngbgrutikdgnjma/HackSilver_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"
+s319256963.735877
+e319256963.740639
+r1
+xTouch
+x/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app
+lSLF07#2@98"Touch /Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app319256963#319256963#0(0"0(0#0#0"8631660864#307"    cd "/Users/matthew/Desktop/My Code Sources/HackSilver"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/matthew/Desktop/My Code Sources/HackSilver/build/Debug-iphonesimulator/HackSilver.app"0#
+
